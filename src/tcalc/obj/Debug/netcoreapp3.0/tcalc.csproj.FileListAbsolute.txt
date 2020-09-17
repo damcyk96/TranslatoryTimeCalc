@@ -1,0 +1,15 @@
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp3.0\tcalc.exe
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp3.0\tcalc.deps.json
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp3.0\tcalc.runtimeconfig.json
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp3.0\tcalc.runtimeconfig.dev.json
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp3.0\tcalc.dll
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp3.0\tcalc.pdb
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp3.0\Superpower.dll
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp3.0\tcalc.csprojAssemblyReference.cache
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp3.0\tcalc.AssemblyInfoInputs.cache
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp3.0\tcalc.AssemblyInfo.cs
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp3.0\tcalc.csproj.CoreCompileInputs.cache
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp3.0\tcalc.csproj.CopyComplete
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp3.0\tcalc.dll
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp3.0\tcalc.pdb
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp3.0\tcalc.genruntimeconfig.cache

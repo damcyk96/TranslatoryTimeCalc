@@ -1,0 +1,14 @@
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp3.0\timeCalcTranslatory.exe
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp3.0\timeCalcTranslatory.deps.json
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp3.0\timeCalcTranslatory.runtimeconfig.json
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp3.0\timeCalcTranslatory.runtimeconfig.dev.json
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp3.0\timeCalcTranslatory.dll
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp3.0\timeCalcTranslatory.pdb
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp3.0\Superpower.dll
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp3.0\timeCalcTranslatory.AssemblyInfoInputs.cache
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp3.0\timeCalcTranslatory.AssemblyInfo.cs
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp3.0\timeCalcTranslatory.csproj.CoreCompileInputs.cache
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp3.0\timeCalcTranslatory.csproj.CopyComplete
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp3.0\timeCalcTranslatory.dll
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp3.0\timeCalcTranslatory.pdb
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp3.0\timeCalcTranslatory.genruntimeconfig.cache

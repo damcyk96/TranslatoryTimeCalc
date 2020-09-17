@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BwajP+cV5hdKv86AcYkdL+4VkFKJ0jyTD6Ax5PganMo/sUQb3MDj6w4ljjTWZUsK7n0hzJ5CNm0YdwvJMGxlsQ==",
+  "success": true,
+  "projectFilePath": "D:\\tcalc-master\\src\\tcalc\\timeCalcTranslatory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\do053834\\.nuget\\packages\\superpower\\2.3.0\\superpower.2.3.0.nupkg.sha512",
+    "C:\\Users\\do053834\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\do053834\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\do053834\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\do053834\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

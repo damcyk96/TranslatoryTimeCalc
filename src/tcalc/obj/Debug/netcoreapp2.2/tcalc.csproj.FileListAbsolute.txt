@@ -1,0 +1,12 @@
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp2.2\tcalc.deps.json
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp2.2\tcalc.runtimeconfig.json
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp2.2\tcalc.runtimeconfig.dev.json
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp2.2\tcalc.dll
+D:\tcalc-master\src\tcalc\bin\Debug\netcoreapp2.2\tcalc.pdb
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp2.2\tcalc.csprojAssemblyReference.cache
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp2.2\tcalc.AssemblyInfoInputs.cache
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp2.2\tcalc.AssemblyInfo.cs
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp2.2\tcalc.csproj.CoreCompileInputs.cache
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp2.2\tcalc.dll
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp2.2\tcalc.pdb
+D:\tcalc-master\src\tcalc\obj\Debug\netcoreapp2.2\tcalc.genruntimeconfig.cache
